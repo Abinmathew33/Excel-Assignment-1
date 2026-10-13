@@ -1,2 +1,2 @@
 # Excel-Assignment-1
-Data Exploration Assignment
+A set of data is explored by going through the basic formulas and table and column making.
